@@ -1,0 +1,47 @@
+[
+ {
+  "RC": "00",
+  "Message": "SUCCESS",
+  "Status": "Sukses"
+ },
+ {
+  "RC": "06",
+  "Message": "TRANSACTION NOT FOUND",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "07",
+  "Message": "FAILED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 13,
+  "Message": "CUSTOMER NUMBER BLOCKED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 14,
+  "Message": "INCORRECT DESTINATION NUMBER",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 20,
+  "Message": "CODE NOT FOUND",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 39,
+  "Message": "PROCESS",
+  "Status": "Pending"
+ },
+ {
+  "RC": 106,
+  "Message": "PRODUCT IS TEMPORARILY OUT OF SERVICE",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 204,
+  "Message": "WRONG AUTHENTICATION",
+  "Status": "Gagal"
+ }
+]

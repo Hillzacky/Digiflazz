@@ -1,0 +1,237 @@
+[
+ {
+  "RC": "00",
+  "Message": "INQUIRY \/ PAYMENT SUCCESS",
+  "Status": "Sukses"
+ },
+ {
+  "RC": "01",
+  "Message": "INVOICE HAS BEEN PAID",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "02",
+  "Message": "BILL UNPAID",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "03",
+  "Message": "INVALID REF ID",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "04",
+  "Message": "BILLING ID EXPIRED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "05",
+  "Message": "UNDEFINED ERROR",
+  "Status": "Pending"
+ },
+ {
+  "RC": "06",
+  "Message": "INQUIRY ID NOT FOUND",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "07",
+  "Message": "TRANSACTION FAILED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "08",
+  "Message": "BILLING ID BLOCKED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": "09",
+  "Message": "INQUIRY FAILED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 10,
+  "Message": "BILL IS NOT AVAILABLE",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 11,
+  "Message": "DUPLICATE REF ID",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 13,
+  "Message": "CUSTOMER NUMBER BLOCKED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 14,
+  "Message": "UNCORRECT DESTINATION NUMBER",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 16,
+  "Message": "NUMBER DOESN'T MATCH THE OPERATOR",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 17,
+  "Message": "BALANCE NOT ENOUGH",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 20,
+  "Message": "PRODUCT UNREGISTERED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 30,
+  "Message": "PAYMENT HAVE TO BE DONE VIA COUNTER \/ PDAM",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 31,
+  "Message": "TRANSACTION REJECTED DUE TO EXCEEDING MAXIMAL TOTAL BILL ALLOWED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 32,
+  "Message": "TRANSACTION FAILED, PLEASE PAY BILL OF ALL PERIOD",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 33,
+  "Message": "TRANSACTION CAN'T BE PROCESS, PLEASE TRY AGAIN LATER",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 34,
+  "Message": "BILL HAS BEEN PAID",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 35,
+  "Message": "TRANSACTION REJECTED DUE TO ANOTHER UNPAID ARREAR",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 36,
+  "Message": "EXCEEDING DUE DATE, PLEASE PAY IN THE COUNTER \/ PDAM",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 37,
+  "Message": "PAYMENT FAILED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 38,
+  "Message": "PAYMENT FAILED, PLEASE DO ANOTHER REQUEST",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 39,
+  "Message": "PENDING \/ TRANSACTION IN PROCESS",
+  "Status": "Pending"
+ },
+ {
+  "RC": 40,
+  "Message": "TRANSACTION REJECTED DUE TO ALL OR ONE OF THE ARREAR\/INVOICE HAS BEEN PAID",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 41,
+  "Message": "CAN'T BE PAID IN COUNTER, PLEASE PAY TO THE CORRESPONDING COMPANY",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 42,
+  "Message": "PAYMENT REQUEST HAVEN'T BEEN RECEIEVED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 43,
+  "Message": "DATE INTERVAL CANNOT MORE THAN 31 DAYS",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 91,
+  "Message": "DATABASE CONNECTION ERROR",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 92,
+  "Message": "GENERAL ERROR",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 93,
+  "Message": "INVALID AMOUNT",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 94,
+  "Message": "SERVICE HAS EXPIRED",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 100,
+  "Message": "INVALID SIGNATURE",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 101,
+  "Message": "INVALID COMMAND",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 102,
+  "Message": "INVALID IP ADDRESS",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 103,
+  "Message": "TIMEOUT",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 105,
+  "Message": "MISC ERROR \/ BILLER SYSTEM ERROR",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 106,
+  "Message": "PRODUCT IS TEMPORARILY OUT OF SERVICE",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 107,
+  "Message": "XML FORMAT ERROR",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 108,
+  "Message": "SORRY, YOUR ID CAN'T BE USED FOR THIS PRODUCT TRANSACTION",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 109,
+  "Message": "SYSTEM CUT OFF",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 110,
+  "Message": "SYSTEM UNDER MAINTENANCE",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 117,
+  "Message": "PAGE NOT FOUND",
+  "Status": "Gagal"
+ },
+ {
+  "RC": 201,
+  "Message": "UNDEFINED RESPONSE CODE",
+  "Status": "Pending"
+ }
+]

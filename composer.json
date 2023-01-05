@@ -1,0 +1,19 @@
+{
+    "name": "hillzacky/digiflazz",
+    "description": "PPOB Digiflazz library for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hillzacky\\Digiflazz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hillzacky",
+            "email": "hilm4nsyah@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}

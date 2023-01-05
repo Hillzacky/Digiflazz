@@ -1,0 +1,236 @@
+[
+ {
+  "RC": "00",
+  "Message": "Transaksi Sukses",
+  "Status": "Sukses",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": "01",
+  "Message": "Timeout",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": "02",
+  "Message": "Transaksi Gagal",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": "03",
+  "Message": "Transaksi Pending",
+  "Status": "Pending",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 40,
+  "Message": "Payload Error",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 41,
+  "Message": "Signature tidak valid",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 42,
+  "Message": "Gagal memproses API Buyer",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 43,
+  "Message": "SKU tidak di temukan atau Non-Aktif",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 44,
+  "Message": "Saldo tidak cukup",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 45,
+  "Message": "IP Anda tidak kami kenali",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 47,
+  "Message": "Transaksi sudah terjadi di buyer lain",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 49,
+  "Message": "Ref ID tidak unik",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 50,
+  "Message": "Transaksi Tidak Ditemukan",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 51,
+  "Message": "Nomor Tujuan Diblokir",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 52,
+  "Message": "Prefix Tidak Sesuai Dengan Operator",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 53,
+  "Message": "Produk Seller Sedang Ya Tersedia",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 54,
+  "Message": "Nomor Tujuan Salah",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 55,
+  "Message": "Produk Sedang Gangguan",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 56,
+  "Message": "Limit saldo seller",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 57,
+  "Message": "Jumlah Digit Kurang Atau Lebih",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 58,
+  "Message": "Sedang Cut Off",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 59,
+  "Message": "Tujuan di Luar Wilayah\/Cluster",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 60,
+  "Message": "Tagihan belum tersedia",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 61,
+  "Message": "Belum pernah melakukan deposit",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 62,
+  "Message": "Seller sedang mengalami gangguan",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 63,
+  "Message": "Tidak support transaksi multi",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 64,
+  "Message": "Tarik tiket gagal, coba nominal lain atau hubungi admin.",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 65,
+  "Message": "Limit transaksi multi",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 66,
+  "Message": "Cut Off (Perbaikan Sistem Seller)",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 67,
+  "Message": "Seller belum ter-verfikasi",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 68,
+  "Message": "Stok habis",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 69,
+  "Message": "Harga seller lebih besar dari ketentuan harga Buyer",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 70,
+  "Message": "Timeout Dari Biller",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 71,
+  "Message": "Produk Sedang Tidak Stabil",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 72,
+  "Message": "Lakukan Unreg Paket Dahulu",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Ya"
+ },
+ {
+  "RC": 80,
+  "Message": "Akun Anda telah diblokir oleh Seller",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 81,
+  "Message": "Seller ini telah diblokir oleh Anda",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 82,
+  "Message": "Akun Anda belum ter-verfikasi",
+  "Status": "Gagal",
+  "TransaksiTerbentuk": "Tidak"
+ },
+ {
+  "RC": 99,
+  "Message": "DF Router Issue",
+  "Status": "Pending",
+  "TransaksiTerbentuk": "Ya"
+ }
+]
